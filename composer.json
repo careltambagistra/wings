@@ -14,7 +14,8 @@
 		"php": ">=5.3.7",
 		"guzzlehttp/guzzle": "7.0",
       "ext-curl": "*",
-		"endroid/qr-code": "^4.0"
+		"endroid/qr-code": "^4.0",
+		"dompdf/dompdf": "^2.0"
     },
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"

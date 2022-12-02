@@ -1,9 +1,7 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
 	<!-- Brand Logo -->
-	<a href="https://www.ukrim.ac.id" class="brand-link">
-		<img src="<?= base_url(); ?>assets_dashboard/dist/img/bca-f-logo.png" alt="AdminLTE Logo"
-			class="brand-image img-circle elevation-3" style="opacity: .8">
-		<span class="brand-text font-weight-light">GISTRA Cell</span>
+	<a href="" class="brand-link">
+		<span class="brand-text font-weight-light">Penjualan</span>
 	</a>
 
 	<!-- Sidebar -->
